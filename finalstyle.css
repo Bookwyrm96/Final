@@ -25,7 +25,7 @@ h1#site-title{
   }
   nav ul li a:hover{
     text-decoration:underline;
-  }
+  }  
   body{
     background-color:rgb(206, 105, 105);
   }
@@ -34,7 +34,10 @@ h1#site-title{
     padding:5px;
     max-width: 675px;  
   }
-  .container{
+  .menu-container{
     max-width:950px;
     margin-left:300px;
+  }
+  .main-container{
+    max-width:950px;
   }
