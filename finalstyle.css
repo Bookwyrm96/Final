@@ -36,8 +36,9 @@ h1#site-title{
   }
   .menu-container{
     max-width:950px;
-    margin-left:300px;
+    margin-left:275px;
   }
   .main-container{
-    max-width:950px;
+    max-width:1020px;
+    margin-left:250px;
   }
