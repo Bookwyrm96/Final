@@ -35,6 +35,10 @@ h1#site-title{
     width: 250px; 
     height:400px; 
   }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
   .menu-container{
     max-width:950px;
     margin-left:275px;
