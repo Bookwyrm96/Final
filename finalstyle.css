@@ -35,15 +35,7 @@ h1#site-title{
     width: 250px; 
     height:400px; 
   }
-  img {
-    max-width: 75%;
-    height: auto;
-  }
-  .menu-container{
+.caster-image{
+    border-radius: 8px;
     max-width:950px;
-    margin-left:275px;
-  }
-  .main-container{
-    max-width:1020px;
-    margin-left:250px;
-  }
+}
