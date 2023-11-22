@@ -34,8 +34,11 @@ h1#site-title{
     border: 2px solid black;
     padding:5px;
     width: 250px; 
-    height:400px; 
+    height:300px; 
   }
   article{
     text-align: right;
+  }
+  p{
+    text-align:right;
   }
