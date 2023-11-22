@@ -27,12 +27,13 @@ h1#site-title{
     text-decoration:underline;
   }  
   body{
-    background-color:rgb(206, 105, 105);
+    background-color:rgb(255, 115, 115);
   }
   figure{
     border: 2px solid black;
     padding:5px;
-    max-width: 675px;  
+    max-width: 675px; 
+    height:75%; 
   }
   .menu-container{
     max-width:950px;
