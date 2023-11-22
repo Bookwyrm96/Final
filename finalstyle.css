@@ -3,6 +3,7 @@ h1#site-title{
     text-align:center;
     font-size:72px;
     margin-bottom:24px;
+    text-decoration:underline;
   }
   header nav ul {
     background: black;
@@ -35,7 +36,6 @@ h1#site-title{
     width: 250px; 
     height:400px; 
   }
-.spellcaster-image{
-    border-radius: 8px;
-    max-width:950px;
-}
+  article{
+    text-align: right;
+  }
