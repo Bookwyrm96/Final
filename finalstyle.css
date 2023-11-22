@@ -29,3 +29,8 @@ h1#site-title{
   body{
     background-color:rgb(206, 105, 105);
   }
+  figure.caster-image{
+    border:1px black;
+    padding:5px;
+    max-height:800px;
+  }
