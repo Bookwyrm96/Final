@@ -1,2 +1,21 @@
 <!DOCTYPE html>
 <html lang="en-US">
+    <head>
+        <title>Intro to D&D Classes</title>
+      </head>
+      <main>
+        <header>
+           <h1 id="site-title">Welcome to Class</h1>
+          <body>
+            <nav>
+              <ul>
+                <li><a href="idex.html" alt="go to homepage">Home</a></li>
+                <li><a href="Casters.html" alt="go to spellcaster page">Casters</a></li>
+                <li><a href="halfcasters.html" alt="go to halfcaster page">Half-Casters</a></li>
+                <li><a href="Martials.html" alt="go to martial page">Martials</a></li>
+              </ul>
+            </nav>
+          </body>
+        </header>
+     </main>
+    
