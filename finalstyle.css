@@ -9,7 +9,7 @@ h1#site-title{
     color:white;
     list-style:none;
     text-align:center;
-    padding:10px;
+    padding:24px;
     border: 1px solid white;
   }
   nav ul li{
@@ -27,5 +27,5 @@ h1#site-title{
     text-decoration:underline;
   }
   body{
-    background-color:rgb(152, 73, 73);
+    background-color:rgb(206, 105, 105);
   }
