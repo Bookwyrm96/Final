@@ -6,7 +6,7 @@ h1#site-title{
     text-decoration:underline;
   }
   header nav ul {
-    background: black;
+    background: #143d14;
     color:white;
     list-style:none;
     text-align:center;
@@ -45,7 +45,14 @@ h1#site-title{
   p{
     float:right;
   }
-  .container{
+  .main-container{
+    width: 96%;
+    margin: 0 auto;
+    max-width: 1200px;
+    text-align:center;
+    display:block;
+  }
+  .menu-container{
     width: 96%;
     margin: 0 auto;
     max-width: 1200px;
