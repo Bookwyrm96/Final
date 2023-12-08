@@ -5,6 +5,9 @@ h1#site-title{
     margin-bottom:24px;
     text-decoration:underline;
   }
+  h1{
+    text-align:center;
+  }
   header nav ul {
     background: #143d14;
     color:white;
@@ -48,7 +51,7 @@ h1#site-title{
     float:right;
     margin-left: 20px;
     }
-    
+
   article{
     text-align: justify;
   }
