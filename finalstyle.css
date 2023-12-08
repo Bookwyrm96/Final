@@ -36,6 +36,9 @@ h1#site-title{
     width: 250px; 
     height:375px; 
   }
+  img{
+    max-width: 250px;
+  }
   article{
     text-align: justify;
   }
