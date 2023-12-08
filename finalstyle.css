@@ -39,6 +39,16 @@ h1#site-title{
   img{
     max-width: 250px;
   }
+
+  figure.section-image.odd{
+    float:left;
+    margin-right: 20px;
+    }
+    figure.section-image.even{
+    float:right;
+    margin-left: 20px;
+    }
+    
   article{
     text-align: justify;
   }
