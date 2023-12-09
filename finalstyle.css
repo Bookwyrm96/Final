@@ -51,12 +51,19 @@ h1#site-title{
     float:right;
     margin-left: 20px;
     }
+  h1#header-odd{
+    margin-left:20px;
+  }
+
+  h1#header-even{
+    margin-right:20px;
+  }
 
   article{
     text-align: justify;
   }
   p{
-    float:right;
+    text-align:justify;
   }
   .main-container{
     width: 96%;
