@@ -54,10 +54,12 @@ h1#site-title{
 
     h1#header-odd{
       margin-left:335px;
+      margin-top: 50px;
     }
   
     h1#header-even{
       margin-right:335px;
+      margin-top:50px;
     }
 
   article{
