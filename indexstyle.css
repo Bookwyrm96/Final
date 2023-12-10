@@ -43,7 +43,8 @@ h1#site-title{
     text-align: justify;
   }
   p{
-    float:right;
+    text-align:justify;
+    float:center;
   }
   .main-container{
     width: 96%;
