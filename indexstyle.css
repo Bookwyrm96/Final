@@ -58,7 +58,11 @@ p{
   float:center;
   font-size:24px;
   max-width:1020px;
-
+}
+a{
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
 }
 .main-container{
   width: 96%;
