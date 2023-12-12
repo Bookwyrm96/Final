@@ -70,6 +70,13 @@ h1#site-title{
   p{
     text-align:justify;
   }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  a:hover{
+    text-decoration:underline;
+  } 
   .main-container{
     width: 96%;
     margin: 0 auto;
