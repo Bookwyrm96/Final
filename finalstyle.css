@@ -10,6 +10,7 @@ h1#site-title{
     margin-top: 50px;
     font-family: Garamond, Times, serif;
   }
+
   header nav ul {
     background: #143d14;
     color:white;
@@ -32,9 +33,11 @@ h1#site-title{
   nav ul li a:hover{
     text-decoration:underline;
   }  
+
   body{
     background-color:#609260;
   }
+
   figure{
     border: 2px#609260;
     padding:10px;
@@ -44,22 +47,20 @@ h1#site-title{
   img{
     max-width: 250px;
   }
-
   figure.section-image.odd{
     float:left;
     margin-right: 20px;
     }
-    figure.section-image.even{
+  figure.section-image.even{
     float:right;
     margin-left: 20px;
     }
 
-    h1#header-odd{
+  h1#header-odd{
       margin-left:335px;
       margin-top: 50px;
     }
-  
-    h1#header-even{
+  h1#header-even{
       margin-right:335px;
       margin-top:50px;
     }
@@ -78,6 +79,7 @@ h1#site-title{
   a:hover{
     text-decoration:underline;
   } 
+
   .main-container{
     width: 96%;
     margin: 0 auto;
@@ -92,6 +94,7 @@ h1#site-title{
     text-align:center;
     display:block;
   }
+  
   footer nav ul {
     background: #143d14;
     color:white;
