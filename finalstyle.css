@@ -42,6 +42,10 @@ h1#header-even{
 margin-left:40px;
 }
 
+h1#cleric{
+  margin-right:20px;
+}
+
 h3#subheading{
   margin-left:320px;
 }
