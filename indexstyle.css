@@ -64,6 +64,9 @@ a{
   font-weight: bold;
   color: black;
 }
+a:hover{
+  text-decoration:underline;
+} 
 .main-container{
   width: 96%;
   margin: 0 auto;
